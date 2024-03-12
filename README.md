@@ -8,9 +8,12 @@ This pick and place robot is an educational medium appropriate for college stude
 - #### ESP 32-CAM or TCS 34725 Color Sensor
 - #### Arduino UNO
 - #### SD Card
+# Project Overview
+![image](https://github.com/HillaryatGitHub/pick-place/assets/122329813/565328bf-a63c-47ec-9ea8-842d4409cc8c)
+## Motion Capabilies
+a
+## Vision Capabilities 
+a
 ## About Author 
 - #### [Linkedin](https://www.linkedin.com/in/hillarylearns/)
 - #### [Medium](https://medium.com/@hillarybelajar)
-
-# Project Overview
-![image](https://github.com/HillaryatGitHub/pick-place/assets/122329813/565328bf-a63c-47ec-9ea8-842d4409cc8c)
